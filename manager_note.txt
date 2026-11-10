@@ -1,0 +1,12 @@
+To: Data Team Manager
+Subject: July–September 2026 application funnel findings
+
+Across 1,200 unique applications, referral was the strongest overall source: 13 hires from 121 applications, or 10.74 hires per 100. It did not lead every role. The highest observed source rates were Data—search (7.4/100); Design—referral (23.1); Finance—search (2.9); Marketing—referral (22.2); Operations—college (20.0); and Software—email (11.4). Several role/source groups are small, so these leaders are directional.
+
+Applicants completing all four steps were shortlisted at 48.39% (195/403), versus 9.28% (74/797) for those completing fewer steps: a 39.10-percentage-point gap.
+
+Paid applications had a median first-reply time of 3 days (mean 3.22), versus 7 days (mean 7.63) for unpaid. No reply was recorded for 13.1% of paid applications (96/734), compared with 29.6% of unpaid (138/466). This 16.5-point gap is large enough to investigate and act on.
+
+Recommendation: next month, test referral promotion where role-level evidence supports it, prompt applicants to complete all four steps, and track employer reply-time SLAs separately for paid and unpaid roles.
+
+Cleaning/trust: removed six exact duplicate rows; standardized casing and work-mode labels; retained 15 missing sources as unknown and excluded them from source comparisons. Blank reply days mean no reply recorded, not necessarily never. Without an extraction date, late-September applications may be right-censored. Results are observational, not causal.
